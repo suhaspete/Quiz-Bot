@@ -1,6 +1,4 @@
-# QuizGenie
-
-![Banner](/assets/banner.jpg)
+# QuizBot
 
 ## Overview
 
